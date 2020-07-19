@@ -1,0 +1,12 @@
+{
+  "name": "reactnativeboilerplate",
+  "displayName": "reactnativeboilerplate",
+  "expo": {
+    "name": "reactnativeboilerplate",
+    "slug": "reactnativeboilerplate",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
